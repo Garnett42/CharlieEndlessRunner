@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CharlieEndlessRunner",
+"dataUrl": "CharlieEndlessRunner.data.unityweb",
+"asmCodeUrl": "CharlieEndlessRunner.asm.code.unityweb",
+"asmMemoryUrl": "CharlieEndlessRunner.asm.memory.unityweb",
+"asmFrameworkUrl": "CharlieEndlessRunner.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
